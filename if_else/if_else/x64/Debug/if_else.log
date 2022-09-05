@@ -1,0 +1,3 @@
+﻿  if_else.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(700,5): error MSB6006: "CL.exe" öğesinden 2 koduyla çıkıldı.
+D:\Belgelerim\KodÇalışmalarım\C++ Kod Denemelerim\if_else\if_else\if_else.cpp(31): error C4716: 'kiyaslama_function' : bir değer döndürmelidir
